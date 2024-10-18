@@ -7,10 +7,10 @@ The best feature about the game is prob the option to chose difficulty *and powe
 
 Movement keys:
 
-S and ↓: Movement down/fast drop
-A and ←: Movement left
-D and →: Movement Right
-X: Rotate the tetris block
+S and ↓: Movement down/fast drop <br>
+A and ←: Movement left <br>
+D and →: Movement Right <br>
+X: Rotate the tetris block <br>
 
 Interaction keys:
 
