@@ -5,6 +5,8 @@ Most of the music is AI generated (pretty fire tbh)
 
 The best feature about the game is prob the option to chose difficulty *and powerups, if I had time to make them*.
 
+Reach level 157 for an easter egg.
+
 Movement keys:
 
 S and ↓: Movement down/fast drop <br>
