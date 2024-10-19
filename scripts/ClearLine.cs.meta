@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ca9bea0b8c1d4f1799be3636a2327a19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lineClearClip: {fileID: 7400000, guid: f129fa08132c16e4e87600661b0f3719, type: 2}
+  - blockAnimator: {fileID: 1258453280960331472, guid: 9794995989381bd4fa70c701189c60ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
